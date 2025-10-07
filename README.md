@@ -53,3 +53,8 @@ These dependencies can be installed using:
 
 ```bash
 pip install numpy matplotlib astropy scipy
+```
+
+## Project background
+
+Developed by Camilla Pianta in collaboration with Dr. Antonino Milone’s research group (see Milone et al., 2025, https://arxiv.org/abs/2503.19214).
