@@ -55,6 +55,6 @@ These dependencies can be installed using:
 pip install numpy matplotlib astropy scipy
 ```
 
-## Project background
+## Development and collaboration histort
 
-Developed by Camilla Pianta in collaboration with Dr. Antonino Milone’s research group (see Milone et al., 2025, https://arxiv.org/abs/2503.19214).
+This Python code was developed by Camilla Pianta during her collaboration with Dr. Antonino Milone’s research group, as part of a research project on multiple stellar populations (see Milone et al. 2025, https://arxiv.org/abs/2503.19214).
